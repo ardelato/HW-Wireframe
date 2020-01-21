@@ -53,6 +53,7 @@ aside {
   float: left;
   /* (body = 960) - (section = 495) - (section-right margin = 10px) */
   width: 455px;
+  height: 277px;
 }
 
 footer {
